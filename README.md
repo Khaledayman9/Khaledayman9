@@ -16,9 +16,9 @@ I am a computer engineering graduate from the German University in Cairo (GUC), 
   <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
- <img alt="VHDL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vhdl/vhdl-original.svg" />
+  <img alt="VHDL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/16542113/50175134-4f7b3700-02fc-11e9-914e-cb317fddce4e.png" />
   <img alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
-  <img alt="Prolog" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/wiki/dtonhofer/prolog_logo/prolog_logo.png" />
+  <img alt="Prolog" width="30px" style="padding-right:10px;" src="https://github.com/SWI-Prolog/plweb-www/blob/master/icons/swipl-120.png" />
 </p>
 
 **Technologies & Frameworks**:
