@@ -49,5 +49,7 @@ I am a computer engineering graduate from the German University in Cairo (GUC), 
 
 # 📚 Publications
 - **[Fake vs. Real Face Discrimination Using Convolutional Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-57639-3_10), Springer**
-  - Proposed three new CNN models for discriminating between altered (fake) and authentic (real) facial images, compared with pretrained models like Inception-ResNet-V2 and ResNet-50.
-  - Published as Chapter 10 (Pages 219-241) in the book titled "Pan African Conference on Artificial Intelligence," featured in Volume 2.
+  - **Description:** Proposed three new CNN models for discriminating between altered (fake) and authentic (real) facial images, evaluated against Inception-ResNet-V2 and ResNet-50 pretrained models.
+  - **Published In:** Chapter 10 (Pages 219-241) of the book "Pan African Conference on Artificial Intelligence," Volume 2
+  - **Publisher:** Springer
+  - **Publication Date:** April 2024
