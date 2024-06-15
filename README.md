@@ -8,19 +8,19 @@ I am a computer engineering graduate from the German University in Cairo (GUC), 
 
 # 🧑‍💻 Skills and Expertise
 **Programming Languages**:
-<p align="left">
-  <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="VHDL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/16542113/50175134-4f7b3700-02fc-11e9-914e-cb317fddce4e.png" />
-  <img alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
-  <img alt="Prolog" width="30px" style="padding-right:10px;" src="https://github.com/SWI-Prolog/plweb-www/blob/master/icons/swipl-120.png" />
-</p>
+<div>
+  <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=C%23&color=239120&logo=c-sharp&logoColor=white" alt="C# Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=SQL&color=4479A1&logo=mysql&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=VHDL&color=7A0099&logoColor=white" alt="VHDL Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Haskell&color=5D4F85&logo=haskell&logoColor=white" alt="Haskell Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Prolog&color=4D53E0&logoColor=white" alt="Prolog Badge"/>
+</div>
 
 **Technologies & Frameworks**:
 <p align="left">
@@ -34,15 +34,15 @@ I am a computer engineering graduate from the German University in Cairo (GUC), 
 </p>
 
 **Developer Tools**:
-<p align="left">
-  <img alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="Eclipse" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
-  <img alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-  <img alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-</p>
+<div>
+  <img src="https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Eclipse&color=2C2255&logo=eclipse&logoColor=white" alt="Eclipse Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Unity&color=000000&logo=unity&logoColor=white" alt="Unity Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Visual%20Studio&color=5C2D91&logo=visual-studio&logoColor=white" alt="Visual Studio Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=IntelliJ%20IDEA&color=000000&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Arduino&color=00979D&logo=arduino&logoColor=white" alt="Arduino Badge"/>
+</div>
 
 
 
