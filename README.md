@@ -2,7 +2,7 @@
 
 **`Computer Engineer & Software Engineer`**
 
-I am a computer engineering graduate from the German University in Cairo (GUC), with a strong passion for AI research and software development. I have a solid background in various programming languages and tools, and I enjoy tackling challenging problems and building innovative solutions. You can reach me via [LinkedIn](https://www.linkedin.com/in/khaled-eissa-07765b233/) or [ORCID](https://orcid.org/0009-0003-4331-7024) .
+I am a computer engineering graduate from the German University in Cairo (GUC), with a strong passion for AI research and software development. I have a solid background in various programming languages and tools, and I enjoy tackling challenging problems and building innovative solutions. You can reach me via [LinkedIn](https://www.linkedin.com/in/khaled-eissa-07765b233/) or [ORCID](https://orcid.org/0009-0003-4331-7024).
 
 ---
 
@@ -12,6 +12,7 @@ I am a computer engineering graduate from the German University in Cairo (GUC), 
   <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
