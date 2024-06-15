@@ -23,15 +23,15 @@ I am a computer engineering graduate from the German University in Cairo (GUC), 
 </div>
 
 **Technologies & Frameworks**:
-<p align="left">
-  <img alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="JUnit" width="30px" style="padding-right:10px;" src="https://junit.org/junit5/assets/img/junit5-logo.png" />
-  <img alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</p>
+<div>
+  <img src="https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=black" alt="Linux Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=JUnit&color=25A162&logo=junit5&logoColor=white" alt="JUnit Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF6F00&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=PyTorch&color=EE4C2C&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+</div>
 
 **Developer Tools**:
 <div>
@@ -43,7 +43,6 @@ I am a computer engineering graduate from the German University in Cairo (GUC), 
   <img src="https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
   <img src="https://img.shields.io/static/v1?label=&message=Arduino&color=00979D&logo=arduino&logoColor=white" alt="Arduino Badge"/>
 </div>
-
 
 
 
