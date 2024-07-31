@@ -1,13 +1,16 @@
 # ❄ Khaled Eissa
 
 **`Computer Engineer`**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledeissa901@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-eissa-07765b233/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4331-7024)
 
 Computer engineering graduate from the German University in Cairo (GUC), with a strong passion for AI research and software development. I have a solid background in various programming languages and tools, and I enjoy tackling challenging problems and building innovative solutions. You can reach me via [LinkedIn](https://www.linkedin.com/in/khaled-eissa-07765b233/) or [ORCID](https://orcid.org/0009-0003-4331-7024).
 
 ---
 
 # 🧑‍💻 Skills and Expertise
-**Programming Languages**:
+## Programming Languages:
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
@@ -22,7 +25,7 @@ Computer engineering graduate from the German University in Cairo (GUC), with a 
   <img src="https://img.shields.io/badge/Prolog-4D53E0?style=for-the-badge&logoColor=white" alt="Prolog Badge"/>
 </div>
 
-**Technologies & Frameworks**:
+## Technologies & Frameworks:
 <div>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
@@ -34,7 +37,7 @@ Computer engineering graduate from the German University in Cairo (GUC), with a 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
 </div>
 
-**Developer Tools**:
+## Developer Tools:
 <div>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse Badge"/>
