@@ -2,7 +2,7 @@
 
 **`Computer Engineer`**
 
-I am a computer engineering graduate from the German University in Cairo (GUC), with a strong passion for AI research and software development. I have a solid background in various programming languages and tools, and I enjoy tackling challenging problems and building innovative solutions. You can reach me via [LinkedIn](https://www.linkedin.com/in/khaled-eissa-07765b233/) or [ORCID](https://orcid.org/0009-0003-4331-7024).
+Computer engineering graduate from the German University in Cairo (GUC), with a strong passion for AI research and software development. I have a solid background in various programming languages and tools, and I enjoy tackling challenging problems and building innovative solutions. You can reach me via [LinkedIn](https://www.linkedin.com/in/khaled-eissa-07765b233/) or [ORCID](https://orcid.org/0009-0003-4331-7024).
 
 ---
 
