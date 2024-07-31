@@ -9,39 +9,39 @@ I am a computer engineering graduate from the German University in Cairo (GUC), 
 # 🧑‍💻 Skills and Expertise
 **Programming Languages**:
 <div>
-  <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=C%23&color=239120&logo=c-sharp&logoColor=white" alt="C# Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=SQL&color=4479A1&logo=mysql&logoColor=white" alt="SQL Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=VHDL&color=7A0099&logoColor=white" alt="VHDL Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Haskell&color=5D4F85&logo=haskell&logoColor=white" alt="Haskell Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Prolog&color=4D53E0&logoColor=white" alt="Prolog Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/VHDL-7A0099?style=for-the-badge&logoColor=white" alt="VHDL Badge"/>
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell Badge"/>
+  <img src="https://img.shields.io/badge/Prolog-4D53E0?style=for-the-badge&logoColor=white" alt="Prolog Badge"/>
 </div>
 
 **Technologies & Frameworks**:
 <div>
-  <img src="https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=black" alt="Linux Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=JUnit&color=25A162&logo=junit5&logoColor=white" alt="JUnit Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF6F00&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=PyTorch&color=EE4C2C&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=black" alt="React Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit Badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
 </div>
 
 **Developer Tools**:
 <div>
-  <img src="https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Eclipse&color=2C2255&logo=eclipse&logoColor=white" alt="Eclipse Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Unity&color=000000&logo=unity&logoColor=white" alt="Unity Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Visual%20Studio&color=5C2D91&logo=visual-studio&logoColor=white" alt="Visual Studio Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=IntelliJ%20IDEA&color=000000&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Arduino&color=00979D&logo=arduino&logoColor=white" alt="Arduino Badge"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse Badge"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio Badge"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA Badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge"/>
 </div>
 
 
