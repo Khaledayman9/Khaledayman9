@@ -57,3 +57,16 @@ Computer engineering graduate from the German University in Cairo (GUC), with a 
   - **Published In:** Chapter 10 (Pages 219-241) of the book "Pan African Conference on Artificial Intelligence," Volume 2
   - **Publisher:** Springer
   - **Publication Date:** April 2024
+
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Khaledayman9&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Khaledayman9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaledayman9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Khaledayman9&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Khaledayman9&icon=5&color=1)](https://visitcount.itsvg.in)
