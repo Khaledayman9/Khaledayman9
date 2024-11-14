@@ -69,4 +69,4 @@ Computer engineering graduate from the German University in Cairo (GUC), with a 
 ![](https://github-contributor-stats.vercel.app/api?username=Khaledayman9&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Khaledayman9&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Khaledayman9&icon=1&color=3)](https://visitcount.itsvg.in)
