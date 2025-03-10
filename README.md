@@ -1,21 +1,8 @@
-<div style="background-color: black; padding: 20px; border-radius: 10px;">
-  
-  <h1 style="color: white;">❄ Khaled Eissa <sub>AI Engineer at Seqoon</sub></h1>
+# ❄ Khaled Eissa <sub>, Software Engineer</sub>
 
-  <p>
-    <a href="mailto:khaledeissa901@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/khaled-eissa-07765b233/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://orcid.org/0009-0003-4331-7024">
-      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
-    </a>
-  </p>
-
-</div>
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledeissa901@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/khaled-eissa-07765b233/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4331-7024)
 
 ---
 <!--
