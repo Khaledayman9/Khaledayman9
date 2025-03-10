@@ -6,8 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-eissa-07765b233/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4331-7024)
 
-Computer engineering graduate from the German University in Cairo (GUC), with a strong passion for AI research and software development. I have a solid background in various programming languages and tools, and I enjoy tackling challenging problems and building innovative solutions. You can reach me via [LinkedIn](https://www.linkedin.com/in/khaled-eissa-07765b233/) or [ORCID](https://orcid.org/0009-0003-4331-7024).
-
 ---
 
 # 🧑‍💻 Skills and Expertise
@@ -48,25 +46,3 @@ Computer engineering graduate from the German University in Cairo (GUC), with a 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge"/>
 </div>
-
-
-
-# 📚 Publications
-- **[Fake vs. Real Face Discrimination Using Convolutional Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-57639-3_10), Springer**
-  - **Description:** Proposed three new CNN models for discriminating between altered (fake) and authentic (real) facial images, evaluated against Inception-ResNet-V2 and ResNet-50 pretrained models.
-  - **Published In:** Chapter 10 (Pages 219-241) of the book "Pan African Conference on Artificial Intelligence," Volume 2
-  - **Publisher:** Springer
-  - **Publication Date:** April 2024
-
-
-# 📊🔍 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=Khaledayman9&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Khaledayman9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaledayman9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-# 📈 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Khaledayman9&limit=5&theme=prussian&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Khaledayman9&icon=1&color=3)](https://visitcount.itsvg.in)
