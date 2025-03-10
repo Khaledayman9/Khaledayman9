@@ -7,7 +7,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4331-7024)
 
 ---
-
+<!--
 # 🧑‍💻 Skills and Expertise
 ## Programming Languages:
 <div>
@@ -42,3 +42,4 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Badge"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/>
 </div>
+-->
